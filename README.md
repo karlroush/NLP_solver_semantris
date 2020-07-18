@@ -1,7 +1,16 @@
 # NLP_solver_semantris
 This tool uses a computer vision in combination with Merriam-Webster's Thesaurus API and a NLP model built from Google News data to solve the Google Experiment [Semantris](https://research.google.com/semantris/). You can read about Google's development of Semantris at [https://experiments.withgoogle.com/semantris](https://experiments.withgoogle.com/semantris)
 
-*This progam is  not faster than a human, though this could simply be a limitation of my avaible processing power.* 
+
+I was inspired by [@pravj](https://github.com/pravj)'s project ["semantris-solver"](https://github.com/pravj/semantris-solver), though I found that their code had several issues:
+- It didn't work. At the most basic level, references to dependencies were broken or out of date.
+- The approach of solely using word embeddings was far too slow.
+- Documentation was essentially non-existent.
+- Code was exceedingly verbose and not easy to navigate.
+
+I’ve rebuilt the project from scratch, utilizing a new approach and modern methods, offering improvements over the original in every aspect.
+
+*This program is not faster than a human, though this could simply be a limitation of my available processing power.* 
 
 # What you'll need
 This project makes use of Tesseract OCR and a NLP model built on Google. You will need
@@ -11,7 +20,7 @@ This project makes use of Tesseract OCR and a NLP model built on Google. You wil
 
 This program also uses PyAutoGUI for clicking and screenshots. Because of this, you may need to modify the locations and dimensions in ```roush_main.py``` which contains ```getCoords()``` to help you.
 
-*A Python enviroment file (```semantris_env.yml```) has also been provided to assist you in setup*
+*A Python environment file (```semantris_env.yml```) has also been provided to assist you in setup*
 
 # How it works
 ![](https://github.com/karoush/NLP_solver_semantris/blob/master/process_graphic.png)

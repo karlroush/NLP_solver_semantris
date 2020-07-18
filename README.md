@@ -8,8 +8,7 @@ This tool uses a combination of Merriam-Webster's Thesaurus API and an NLP model
 This project makes use of Tesseract OCR and a NLP model built on Google. You will need
 - Download the [word2vec pre-trained Google News corpus](https://github.com/karoush/NLP_solver_semantris/blob/master/process_graphic.png)
 - Install Tesseract OCR ([Github](https://github.com/tesseract-ocr/tesseract) or [.exe](https://sourceforge.net/projects/tesseract-ocr/files/latest/download))
-<br>
-This program also uses PyAutoGUI for clicking and screenshots. Because of this, you may need to modify the locations and dimensions in ```roush_main.py``` which contains ```getCoords()``` to help you.
+<br>This program also uses PyAutoGUI for clicking and screenshots. Because of this, you may need to modify the locations and dimensions in ```roush_main.py``` which contains ```getCoords()``` to help you.
 
 **A Python enviroment file has also been provided to assist you in setup** 
 # How it works

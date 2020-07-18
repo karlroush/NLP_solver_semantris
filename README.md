@@ -11,7 +11,7 @@ This project makes use of Tesseract OCR and a NLP model built on Google. You wil
 
 This program also uses PyAutoGUI for clicking and screenshots. Because of this, you may need to modify the locations and dimensions in ```roush_main.py``` which contains ```getCoords()``` to help you.
 
-*A Python enviroment file (semantris_env.yml) has also been provided to assist you in setup*
+*A Python enviroment file (```semantris_env.yml```) has also been provided to assist you in setup*
 
 # How it works
 ![](https://github.com/karoush/NLP_solver_semantris/blob/master/process_graphic.png)

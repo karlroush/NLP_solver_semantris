@@ -1,4 +1,4 @@
-name: semantis
+name: NLP_solver_semantris
 channels:
   - defaults
 dependencies:
@@ -173,5 +173,5 @@ dependencies:
     - scipy==1.5.1
     - selenium==3.141.0
     - smart-open==2.1.0
-prefix: C:\Users\compute\.conda\envs\semantis
+prefix: [your enviroment path here]
 

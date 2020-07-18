@@ -12,6 +12,7 @@ This program also uses PyAutoGUI for clicking and screenshots. Because of this, 
 
 **A Python enviroment file has also been provided to assist you in setup** 
 # The Process
+![](https://github.com/karoush/NLP_solver_semantris/blob/master/process_graphic.png)
 The program works as follows:
 1. Load the NLP model
 2. Find the target word
@@ -36,5 +37,3 @@ The program works as follows:
 5. Exit the process
     1. The program can be stopped by moving the mouse outside user set boundaries
 	2. Alternatively, hit cntrl+alt+del which will cause the screenshot functionality to fail and quit the process
-
-![](https://github.com/karoush/NLP_solver_semantris/blob/master/process_graphic.png)

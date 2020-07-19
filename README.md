@@ -1,7 +1,9 @@
 # NLP_solver_semantris
 This tool uses a computer vision in combination with Merriam-Webster's Thesaurus API and a NLP model built from Google News data to solve the Google Experiment [Semantris](https://research.google.com/semantris/). You can read about Google's development of Semantris at [https://experiments.withgoogle.com/semantris](https://experiments.withgoogle.com/semantris)
 
+See it in action: (https://youtu.be/MQKlzLtKqm4)[https://youtu.be/MQKlzLtKqm4]
 
+# Objective
 I was inspired by [@pravj](https://github.com/pravj)'s project "[semantris-solver](https://github.com/pravj/semantris-solver)", though I found that their code had several issues:
 - It didn't work. At the most basic level, references to dependencies were broken or out of date.
 - The approach of solely using word embeddings was far too slow.

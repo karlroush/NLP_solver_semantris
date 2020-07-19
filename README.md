@@ -1,5 +1,5 @@
 # NLP_solver_semantris
-This tool uses a computer vision in combination with Merriam-Webster's Thesaurus API and a NLP model built from Google News data to solve the Google Experiment [Semantris](https://research.google.com/semantris/). You can read about Google's development of Semantris at [https://experiments.withgoogle.com/semantris](https://experiments.withgoogle.com/semantris)
+This tool uses a computer vision in combination with Merriam-Webster's Thesaurus API and an NLP model built from Google News data to solve the Google Experiment [Semantris](https://research.google.com/semantris/). You can read about Google's development of Semantris at [https://experiments.withgoogle.com/semantris](https://experiments.withgoogle.com/semantris)
 
 See it in action: [https://youtu.be/MQKlzLtKqm4](https://youtu.be/MQKlzLtKqm4)
 

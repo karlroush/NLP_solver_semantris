@@ -98,7 +98,7 @@ pytz==2020.1
 pywin32==227
 pywin32-ctypes @ file:///C:/ci/pywin32-ctypes_1594392691209/work
 pywinpty==0.5.7
-PyYAML==5.3.1
+PyYAML==5.4
 pyzmq==19.0.1
 QDarkStyle==2.8.1
 QtAwesome==0.7.2

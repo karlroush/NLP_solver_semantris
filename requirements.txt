@@ -78,7 +78,7 @@ pycparser @ file:///tmp/build/80754af9/pycparser_1594388511720/work
 pydocstyle @ file:///tmp/build/80754af9/pydocstyle_1592848020240/work
 pyflakes==2.1.1
 PyGetWindow==0.0.8
-Pygments==2.6.1
+Pygments==2.7.4
 pylint==2.4.4
 PyMsgBox==1.0.8
 PyNaCl @ file:///C:/ci/pynacl_1593121837095/work
